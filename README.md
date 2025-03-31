@@ -2,7 +2,7 @@
 This repository is a test automation framework to test the sample [Opencart website](https://naveenautomationlabs.com/opencart/)
 The purpose of this framework is to showcase how a test automation framework can be built using different design patterns.
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Programming Language**: Java
 - **UI Automation Library**: Selenium 
 - **IDE**: IntelliJ IDEA
